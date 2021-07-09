@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @liuyulvv
-- 👀 I’m interested in Linux C++ programing.
-- 🌱 I’m currently learning C++ and Linux net programing.
+- 👀 I’m interested in Linux C++ programming.
+- 🌱 I’m currently learning C++ and Linux net programming.
 - 💞️ I’m looking to collaborate on developing C++.
 - 📫 My email is liuyulvv@gmail.com
 
